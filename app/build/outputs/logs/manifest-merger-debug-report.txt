@@ -1,0 +1,502 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:2:1-77:12
+MERGED from [androidx.databinding:viewbinding:8.9.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/5380a7da088e69380f39cb54642f2faf/transformed/jetified-viewbinding-8.9.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.mikepenz:aboutlibraries:7.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/aa343e9d21a26f836e700b45d11e2690/transformed/jetified-aboutlibraries-7.1.0/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.material:material:1.12.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/6c2fb2e7157d5f238534a680641cc2c9/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/a45f292ef343b0eb20e62f71fc5d6e5c/transformed/constraintlayout-2.2.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/b08f06abeccf0d8ad471f94e9b70610c/transformed/jetified-appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.mikepenz:iconics-core:4.0.2] /Users/weiboye/.gradle/caches/8.11.1/transforms/1e9d196a83926f23f30628ff30b3f20d/transformed/jetified-iconics-core-4.0.2/AndroidManifest.xml:17:1-35:12
+MERGED from [com.mikepenz:fastadapter:4.1.2] /Users/weiboye/.gradle/caches/8.11.1/transforms/67dd624850705f05044f8291f0eba53c/transformed/jetified-fastadapter-4.1.2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.mikepenz:aboutlibraries-core:7.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/a510b37554619489008694f1e689f041/transformed/jetified-aboutlibraries-core-7.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.preference:preference-ktx:1.2.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/ae8683c27fa60f5a6ce2888410663ce2/transformed/jetified-preference-ktx-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.preference:preference:1.2.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/dea1a329e567ed46ba39f14c84c15e67/transformed/preference-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/dc6fccb5878d7eee6ca15a249af02441/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/13cde4b259e7a609eb3cd90058aeb361/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/dff5142d1e2f79ca1f959792f9ec6a09/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/b597eaca41befba8ffd459fef11b8771/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/911ac41d7ffe3fee8c4ae9150ad8ba77/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/0d26b3b8495fa79645ee8f0c92a0b405/transformed/documentfile-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-ktx:2.6.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/9b2a0fa97c4801bc519f9029ec0a9ba8/transformed/jetified-room-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/30a6ca2006f05ab04cff50996a4653f1/transformed/room-runtime-2.6.1/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/bfca8305e7ae742aab059b1a0c5ec52a/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.8.6] /Users/weiboye/.gradle/caches/8.11.1/transforms/31968dbe568ece9b9a6897df04883897/transformed/fragment-1.8.6/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment-ktx:1.8.6] /Users/weiboye/.gradle/caches/8.11.1/transforms/4ca46e96739a258c8b6104a33798a0f6/transformed/jetified-fragment-ktx-1.8.6/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/5a4fbeee479938a93114b2805989cb53/transformed/jetified-emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/4787537000ff3a1e74b135ca5404ebea/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/8585d200e12fc908b2af0d705f87d32a/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/aba323b911fd6d62f1e8365abdc470f7/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/9064f9bf46953cdcb701928617f61df9/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/05714f19e8ad193aeec8d0100cbb878d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/09b62a51269a8a8b2aefdc0d9c8046fd/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/5899a8c06ce343b459bbcfa9fead5d82/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/08c82d00390a16900c41bcc865fb1559/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/646db4d03b5cc35f5ca61be987da3580/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window:window:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/13fde2594780c6084dcfb0da15ddbe63/transformed/jetified-window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.15.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/cd922e1a6a4a4c7a9fed7764d6c548fd/transformed/core-1.15.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.activity:activity-ktx:1.10.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/9675b33b3449f114e96f6d24ebd814eb/transformed/jetified-activity-ktx-1.10.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.10.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/1da85e8d2929ffc0e144b921d887aaf2/transformed/jetified-activity-1.10.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/28815f4773128e82963d75e1341aa7d3/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/fff65dda8029fd368ed82808647e6417/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/c35332d0728c392266c98a49f5765bf1/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/4ba86899d3bd75e08bb28ffc62d4a86d/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/37bf59d648a8e5cb0e8af43402f34717/transformed/jetified-lifecycle-runtime-ktx-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/44a1ee168a0ad522d23d65c74dafc4c8/transformed/jetified-lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/0e3e3f3223765adf98144d3261606277/transformed/lifecycle-viewmodel-2.8.7/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/671b654e5f450660874ca5b186dcac80/transformed/jetified-lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/47ec0dc40a4500ca8e78f7dce788cdd3/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/f99a53603682cf3cc555ccec29f85a44/transformed/jetified-lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/dfdbd7ff4b14b7fe123870af06b6bd0f/transformed/jetified-lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/7b93efdd0fd9b428709e5f7fd8e7710f/transformed/jetified-lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.15.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/ae0317f934b72d3fb4a21248ab2c374e/transformed/jetified-core-ktx-1.15.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/6119ffda9f2d79f7c96b14502d265813/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/18a5004d6a82c2ff8ea0cf0f86a4d5f8/transformed/sqlite-2.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/b784fce0e0e649a6840dcec29a62e0fb/transformed/jetified-MPAndroidChart-v3.1.0/AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/83d57e9de2ab3b32c37687b1a57a4887/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/de61456a466fd06b36daebe0bf960587/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/a4c39d33557da88a97282990c9d0ba48/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/9ff79f453891cace4cfd9e30574fba32/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/8c107d6c129983ccfc68759e0850cf8c/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f464c7f78829d02f4e5db5e205a4d319/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/1d2fdb8a57f036945b23dc2b877cec4c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/de810a84b6ed8bc9d1561ee97dbef34d/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/2ccc29ed6dd7c7d84a00ff1d947873c3/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/32f3a4216d442b2dad31617a3913edd1/transformed/jetified-annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/63aa0b2971b5862edeb3bbbcde2b76b6/transformed/jetified-core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:4:5-77
+	android:name
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:4:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_SPECIAL_USE
+ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:5:5-89
+	android:name
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:5:22-86
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:6:5-77
+	android:name
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:6:22-74
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:7:5-72
+	android:name
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:7:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:8:5-73
+	android:name
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:8:22-70
+uses-permission#android.permission.ACCESS_NOTIFICATION_POLICY
+ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:9:5-85
+	android:name
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:9:22-82
+application
+ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:11:5-75:19
+INJECTED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:11:5-75:19
+MERGED from [com.mikepenz:aboutlibraries:7.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/aa343e9d21a26f836e700b45d11e2690/transformed/jetified-aboutlibraries-7.1.0/AndroidManifest.xml:11:5-13:19
+MERGED from [com.mikepenz:aboutlibraries:7.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/aa343e9d21a26f836e700b45d11e2690/transformed/jetified-aboutlibraries-7.1.0/AndroidManifest.xml:11:5-13:19
+MERGED from [com.google.android.material:material:1.12.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/6c2fb2e7157d5f238534a680641cc2c9/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/6c2fb2e7157d5f238534a680641cc2c9/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/a45f292ef343b0eb20e62f71fc5d6e5c/transformed/constraintlayout-2.2.1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/a45f292ef343b0eb20e62f71fc5d6e5c/transformed/constraintlayout-2.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.mikepenz:iconics-core:4.0.2] /Users/weiboye/.gradle/caches/8.11.1/transforms/1e9d196a83926f23f30628ff30b3f20d/transformed/jetified-iconics-core-4.0.2/AndroidManifest.xml:26:5-33:19
+MERGED from [com.mikepenz:iconics-core:4.0.2] /Users/weiboye/.gradle/caches/8.11.1/transforms/1e9d196a83926f23f30628ff30b3f20d/transformed/jetified-iconics-core-4.0.2/AndroidManifest.xml:26:5-33:19
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/30a6ca2006f05ab04cff50996a4653f1/transformed/room-runtime-2.6.1/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/30a6ca2006f05ab04cff50996a4653f1/transformed/room-runtime-2.6.1/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/4787537000ff3a1e74b135ca5404ebea/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/4787537000ff3a1e74b135ca5404ebea/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/13fde2594780c6084dcfb0da15ddbe63/transformed/jetified-window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/13fde2594780c6084dcfb0da15ddbe63/transformed/jetified-window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.15.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/cd922e1a6a4a4c7a9fed7764d6c548fd/transformed/core-1.15.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.15.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/cd922e1a6a4a4c7a9fed7764d6c548fd/transformed/core-1.15.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/47ec0dc40a4500ca8e78f7dce788cdd3/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/47ec0dc40a4500ca8e78f7dce788cdd3/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/9ff79f453891cace4cfd9e30574fba32/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/9ff79f453891cace4cfd9e30574fba32/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/1d2fdb8a57f036945b23dc2b877cec4c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/1d2fdb8a57f036945b23dc2b877cec4c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.15.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/cd922e1a6a4a4c7a9fed7764d6c548fd/transformed/core-1.15.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:15:9-48
+	android:icon
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:17:9-40
+activity#hu.vmiklos.plees_tracker.MainActivity
+ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:18:9-26:20
+	android:launchMode
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:20:13-43
+	android:exported
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:18:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:24:27-74
+activity#hu.vmiklos.plees_tracker.SleepActivity
+ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:27:9-31:20
+	android:name
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:27:19-48
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:28:13-30:49
+	android:value
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:30:17-46
+	android:name
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:29:17-63
+activity#hu.vmiklos.plees_tracker.StatsActivity
+ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:32:9-36:20
+	android:name
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:32:19-48
+activity#hu.vmiklos.plees_tracker.GraphsActivity
+ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:37:9-41:20
+	android:name
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:37:19-49
+activity#hu.vmiklos.plees_tracker.PreferencesActivity
+ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:42:9-57
+	android:name
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:42:19-54
+service#hu.vmiklos.plees_tracker.MainService
+ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:43:9-49:19
+	android:foregroundServiceType
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:45:13-55
+	android:name
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:44:13-40
+property#android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE
+ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:46:13-48:87
+	android:value
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:48:17-85
+	android:name
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:47:17-76
+service#hu.vmiklos.plees_tracker.TileService
+ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:50:9-60:19
+	android:label
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:53:13-54
+	android:exported
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:55:13-36
+	android:permission
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:54:13-77
+	android:icon
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:52:13-60
+	android:name
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:51:13-40
+intent-filter#action:name:android.service.quicksettings.action.QS_TILE
+ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:56:13-59:29
+action#android.service.quicksettings.action.QS_TILE
+ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:57:17-58:82
+	android:name
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:58:21-80
+receiver#hu.vmiklos.plees_tracker.ToggleWidget
+ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:61:9-72:20
+	android:label
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:63:13-54
+	android:exported
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:65:13-36
+	android:icon
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:62:13-47
+	android:name
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:64:13-41
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:66:13-68:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:67:17-84
+	android:name
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:67:25-81
+meta-data#android.appwidget.provider
+ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:69:13-71:62
+	android:resource
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:71:17-59
+	android:name
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:70:17-58
+receiver#hu.vmiklos.plees_tracker.ReminderReceiver
+ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:73:9-54
+	android:name
+		ADDED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:73:19-51
+uses-sdk
+INJECTED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.9.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/5380a7da088e69380f39cb54642f2faf/transformed/jetified-viewbinding-8.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.9.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/5380a7da088e69380f39cb54642f2faf/transformed/jetified-viewbinding-8.9.1/AndroidManifest.xml:5:5-44
+MERGED from [com.mikepenz:aboutlibraries:7.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/aa343e9d21a26f836e700b45d11e2690/transformed/jetified-aboutlibraries-7.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:aboutlibraries:7.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/aa343e9d21a26f836e700b45d11e2690/transformed/jetified-aboutlibraries-7.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.12.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/6c2fb2e7157d5f238534a680641cc2c9/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/6c2fb2e7157d5f238534a680641cc2c9/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/a45f292ef343b0eb20e62f71fc5d6e5c/transformed/constraintlayout-2.2.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/a45f292ef343b0eb20e62f71fc5d6e5c/transformed/constraintlayout-2.2.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/b08f06abeccf0d8ad471f94e9b70610c/transformed/jetified-appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/b08f06abeccf0d8ad471f94e9b70610c/transformed/jetified-appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [com.mikepenz:iconics-core:4.0.2] /Users/weiboye/.gradle/caches/8.11.1/transforms/1e9d196a83926f23f30628ff30b3f20d/transformed/jetified-iconics-core-4.0.2/AndroidManifest.xml:22:5-24:41
+MERGED from [com.mikepenz:iconics-core:4.0.2] /Users/weiboye/.gradle/caches/8.11.1/transforms/1e9d196a83926f23f30628ff30b3f20d/transformed/jetified-iconics-core-4.0.2/AndroidManifest.xml:22:5-24:41
+MERGED from [com.mikepenz:fastadapter:4.1.2] /Users/weiboye/.gradle/caches/8.11.1/transforms/67dd624850705f05044f8291f0eba53c/transformed/jetified-fastadapter-4.1.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:fastadapter:4.1.2] /Users/weiboye/.gradle/caches/8.11.1/transforms/67dd624850705f05044f8291f0eba53c/transformed/jetified-fastadapter-4.1.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:aboutlibraries-core:7.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/a510b37554619489008694f1e689f041/transformed/jetified-aboutlibraries-core-7.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:aboutlibraries-core:7.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/a510b37554619489008694f1e689f041/transformed/jetified-aboutlibraries-core-7.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.preference:preference-ktx:1.2.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/ae8683c27fa60f5a6ce2888410663ce2/transformed/jetified-preference-ktx-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference-ktx:1.2.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/ae8683c27fa60f5a6ce2888410663ce2/transformed/jetified-preference-ktx-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/dea1a329e567ed46ba39f14c84c15e67/transformed/preference-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/dea1a329e567ed46ba39f14c84c15e67/transformed/preference-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/dc6fccb5878d7eee6ca15a249af02441/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/dc6fccb5878d7eee6ca15a249af02441/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/13cde4b259e7a609eb3cd90058aeb361/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/13cde4b259e7a609eb3cd90058aeb361/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/dff5142d1e2f79ca1f959792f9ec6a09/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/dff5142d1e2f79ca1f959792f9ec6a09/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/b597eaca41befba8ffd459fef11b8771/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/b597eaca41befba8ffd459fef11b8771/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/911ac41d7ffe3fee8c4ae9150ad8ba77/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/911ac41d7ffe3fee8c4ae9150ad8ba77/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/0d26b3b8495fa79645ee8f0c92a0b405/transformed/documentfile-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/0d26b3b8495fa79645ee8f0c92a0b405/transformed/documentfile-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/9b2a0fa97c4801bc519f9029ec0a9ba8/transformed/jetified-room-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/9b2a0fa97c4801bc519f9029ec0a9ba8/transformed/jetified-room-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/30a6ca2006f05ab04cff50996a4653f1/transformed/room-runtime-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/30a6ca2006f05ab04cff50996a4653f1/transformed/room-runtime-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/bfca8305e7ae742aab059b1a0c5ec52a/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/bfca8305e7ae742aab059b1a0c5ec52a/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.8.6] /Users/weiboye/.gradle/caches/8.11.1/transforms/31968dbe568ece9b9a6897df04883897/transformed/fragment-1.8.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.8.6] /Users/weiboye/.gradle/caches/8.11.1/transforms/31968dbe568ece9b9a6897df04883897/transformed/fragment-1.8.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.8.6] /Users/weiboye/.gradle/caches/8.11.1/transforms/4ca46e96739a258c8b6104a33798a0f6/transformed/jetified-fragment-ktx-1.8.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.8.6] /Users/weiboye/.gradle/caches/8.11.1/transforms/4ca46e96739a258c8b6104a33798a0f6/transformed/jetified-fragment-ktx-1.8.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/5a4fbeee479938a93114b2805989cb53/transformed/jetified-emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/5a4fbeee479938a93114b2805989cb53/transformed/jetified-emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/4787537000ff3a1e74b135ca5404ebea/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/4787537000ff3a1e74b135ca5404ebea/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/8585d200e12fc908b2af0d705f87d32a/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/8585d200e12fc908b2af0d705f87d32a/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/aba323b911fd6d62f1e8365abdc470f7/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/aba323b911fd6d62f1e8365abdc470f7/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/9064f9bf46953cdcb701928617f61df9/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/9064f9bf46953cdcb701928617f61df9/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/05714f19e8ad193aeec8d0100cbb878d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/05714f19e8ad193aeec8d0100cbb878d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/09b62a51269a8a8b2aefdc0d9c8046fd/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/09b62a51269a8a8b2aefdc0d9c8046fd/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/5899a8c06ce343b459bbcfa9fead5d82/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/5899a8c06ce343b459bbcfa9fead5d82/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/08c82d00390a16900c41bcc865fb1559/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/08c82d00390a16900c41bcc865fb1559/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/646db4d03b5cc35f5ca61be987da3580/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/646db4d03b5cc35f5ca61be987da3580/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/13fde2594780c6084dcfb0da15ddbe63/transformed/jetified-window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/13fde2594780c6084dcfb0da15ddbe63/transformed/jetified-window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.15.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/cd922e1a6a4a4c7a9fed7764d6c548fd/transformed/core-1.15.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/cd922e1a6a4a4c7a9fed7764d6c548fd/transformed/core-1.15.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/9675b33b3449f114e96f6d24ebd814eb/transformed/jetified-activity-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/9675b33b3449f114e96f6d24ebd814eb/transformed/jetified-activity-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.10.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/1da85e8d2929ffc0e144b921d887aaf2/transformed/jetified-activity-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/1da85e8d2929ffc0e144b921d887aaf2/transformed/jetified-activity-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/28815f4773128e82963d75e1341aa7d3/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/28815f4773128e82963d75e1341aa7d3/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/fff65dda8029fd368ed82808647e6417/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/fff65dda8029fd368ed82808647e6417/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/c35332d0728c392266c98a49f5765bf1/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/c35332d0728c392266c98a49f5765bf1/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/4ba86899d3bd75e08bb28ffc62d4a86d/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/4ba86899d3bd75e08bb28ffc62d4a86d/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/37bf59d648a8e5cb0e8af43402f34717/transformed/jetified-lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/37bf59d648a8e5cb0e8af43402f34717/transformed/jetified-lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/44a1ee168a0ad522d23d65c74dafc4c8/transformed/jetified-lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/44a1ee168a0ad522d23d65c74dafc4c8/transformed/jetified-lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/0e3e3f3223765adf98144d3261606277/transformed/lifecycle-viewmodel-2.8.7/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/0e3e3f3223765adf98144d3261606277/transformed/lifecycle-viewmodel-2.8.7/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/671b654e5f450660874ca5b186dcac80/transformed/jetified-lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/671b654e5f450660874ca5b186dcac80/transformed/jetified-lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/47ec0dc40a4500ca8e78f7dce788cdd3/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/47ec0dc40a4500ca8e78f7dce788cdd3/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/f99a53603682cf3cc555ccec29f85a44/transformed/jetified-lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/f99a53603682cf3cc555ccec29f85a44/transformed/jetified-lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/dfdbd7ff4b14b7fe123870af06b6bd0f/transformed/jetified-lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/dfdbd7ff4b14b7fe123870af06b6bd0f/transformed/jetified-lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/7b93efdd0fd9b428709e5f7fd8e7710f/transformed/jetified-lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/7b93efdd0fd9b428709e5f7fd8e7710f/transformed/jetified-lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/ae0317f934b72d3fb4a21248ab2c374e/transformed/jetified-core-ktx-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/ae0317f934b72d3fb4a21248ab2c374e/transformed/jetified-core-ktx-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/6119ffda9f2d79f7c96b14502d265813/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/6119ffda9f2d79f7c96b14502d265813/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/18a5004d6a82c2ff8ea0cf0f86a4d5f8/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/18a5004d6a82c2ff8ea0cf0f86a4d5f8/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/b784fce0e0e649a6840dcec29a62e0fb/transformed/jetified-MPAndroidChart-v3.1.0/AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/b784fce0e0e649a6840dcec29a62e0fb/transformed/jetified-MPAndroidChart-v3.1.0/AndroidManifest.xml:16:5-18:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/83d57e9de2ab3b32c37687b1a57a4887/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/83d57e9de2ab3b32c37687b1a57a4887/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/de61456a466fd06b36daebe0bf960587/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/de61456a466fd06b36daebe0bf960587/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/a4c39d33557da88a97282990c9d0ba48/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/a4c39d33557da88a97282990c9d0ba48/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/9ff79f453891cace4cfd9e30574fba32/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/9ff79f453891cace4cfd9e30574fba32/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/8c107d6c129983ccfc68759e0850cf8c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/8c107d6c129983ccfc68759e0850cf8c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f464c7f78829d02f4e5db5e205a4d319/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f464c7f78829d02f4e5db5e205a4d319/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/1d2fdb8a57f036945b23dc2b877cec4c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/1d2fdb8a57f036945b23dc2b877cec4c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/de810a84b6ed8bc9d1561ee97dbef34d/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/de810a84b6ed8bc9d1561ee97dbef34d/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/2ccc29ed6dd7c7d84a00ff1d947873c3/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/2ccc29ed6dd7c7d84a00ff1d947873c3/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/32f3a4216d442b2dad31617a3913edd1/transformed/jetified-annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/32f3a4216d442b2dad31617a3913edd1/transformed/jetified-annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/63aa0b2971b5862edeb3bbbcde2b76b6/transformed/jetified-core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/63aa0b2971b5862edeb3bbbcde2b76b6/transformed/jetified-core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml
+activity#com.mikepenz.aboutlibraries.ui.LibsActivity
+ADDED from [com.mikepenz:aboutlibraries:7.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/aa343e9d21a26f836e700b45d11e2690/transformed/jetified-aboutlibraries-7.1.0/AndroidManifest.xml:12:9-80
+	android:name
+		ADDED from [com.mikepenz:aboutlibraries:7.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/aa343e9d21a26f836e700b45d11e2690/transformed/jetified-aboutlibraries-7.1.0/AndroidManifest.xml:12:19-77
+provider#com.mikepenz.iconics.IconicsContentProvider
+ADDED from [com.mikepenz:iconics-core:4.0.2] /Users/weiboye/.gradle/caches/8.11.1/transforms/1e9d196a83926f23f30628ff30b3f20d/transformed/jetified-iconics-core-4.0.2/AndroidManifest.xml:27:9-32:39
+	android:enabled
+		ADDED from [com.mikepenz:iconics-core:4.0.2] /Users/weiboye/.gradle/caches/8.11.1/transforms/1e9d196a83926f23f30628ff30b3f20d/transformed/jetified-iconics-core-4.0.2/AndroidManifest.xml:30:13-72
+	android:authorities
+		ADDED from [com.mikepenz:iconics-core:4.0.2] /Users/weiboye/.gradle/caches/8.11.1/transforms/1e9d196a83926f23f30628ff30b3f20d/transformed/jetified-iconics-core-4.0.2/AndroidManifest.xml:29:13-73
+	android:exported
+		ADDED from [com.mikepenz:iconics-core:4.0.2] /Users/weiboye/.gradle/caches/8.11.1/transforms/1e9d196a83926f23f30628ff30b3f20d/transformed/jetified-iconics-core-4.0.2/AndroidManifest.xml:31:13-37
+	android:initOrder
+		ADDED from [com.mikepenz:iconics-core:4.0.2] /Users/weiboye/.gradle/caches/8.11.1/transforms/1e9d196a83926f23f30628ff30b3f20d/transformed/jetified-iconics-core-4.0.2/AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from [com.mikepenz:iconics-core:4.0.2] /Users/weiboye/.gradle/caches/8.11.1/transforms/1e9d196a83926f23f30628ff30b3f20d/transformed/jetified-iconics-core-4.0.2/AndroidManifest.xml:28:13-71
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/30a6ca2006f05ab04cff50996a4653f1/transformed/room-runtime-2.6.1/AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/30a6ca2006f05ab04cff50996a4653f1/transformed/room-runtime-2.6.1/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/30a6ca2006f05ab04cff50996a4653f1/transformed/room-runtime-2.6.1/AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/30a6ca2006f05ab04cff50996a4653f1/transformed/room-runtime-2.6.1/AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/30a6ca2006f05ab04cff50996a4653f1/transformed/room-runtime-2.6.1/AndroidManifest.xml:25:13-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/4787537000ff3a1e74b135ca5404ebea/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/47ec0dc40a4500ca8e78f7dce788cdd3/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/47ec0dc40a4500ca8e78f7dce788cdd3/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/9ff79f453891cace4cfd9e30574fba32/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/9ff79f453891cace4cfd9e30574fba32/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/4787537000ff3a1e74b135ca5404ebea/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/4787537000ff3a1e74b135ca5404ebea/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/4787537000ff3a1e74b135ca5404ebea/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/4787537000ff3a1e74b135ca5404ebea/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/4787537000ff3a1e74b135ca5404ebea/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/4787537000ff3a1e74b135ca5404ebea/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/4787537000ff3a1e74b135ca5404ebea/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:30:17-75
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/13fde2594780c6084dcfb0da15ddbe63/transformed/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/13fde2594780c6084dcfb0da15ddbe63/transformed/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/13fde2594780c6084dcfb0da15ddbe63/transformed/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/13fde2594780c6084dcfb0da15ddbe63/transformed/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/13fde2594780c6084dcfb0da15ddbe63/transformed/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/13fde2594780c6084dcfb0da15ddbe63/transformed/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/cd922e1a6a4a4c7a9fed7764d6c548fd/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/cd922e1a6a4a4c7a9fed7764d6c548fd/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/cd922e1a6a4a4c7a9fed7764d6c548fd/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+permission#hu.vmiklos.plees_tracker.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/cd922e1a6a4a4c7a9fed7764d6c548fd/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/cd922e1a6a4a4c7a9fed7764d6c548fd/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/cd922e1a6a4a4c7a9fed7764d6c548fd/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/cd922e1a6a4a4c7a9fed7764d6c548fd/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/cd922e1a6a4a4c7a9fed7764d6c548fd/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+uses-permission#hu.vmiklos.plees_tracker.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/cd922e1a6a4a4c7a9fed7764d6c548fd/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/cd922e1a6a4a4c7a9fed7764d6c548fd/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/47ec0dc40a4500ca8e78f7dce788cdd3/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/47ec0dc40a4500ca8e78f7dce788cdd3/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/47ec0dc40a4500ca8e78f7dce788cdd3/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
