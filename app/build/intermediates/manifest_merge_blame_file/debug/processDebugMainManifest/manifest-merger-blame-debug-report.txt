@@ -1,0 +1,280 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="hu.vmiklos.plees_tracker.debug"
+4    android:versionCode="62"
+5    android:versionName="25.2.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+11-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:4:5-77
+11-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:4:22-74
+12    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_SPECIAL_USE" />
+12-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:5:5-89
+12-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:5:22-86
+13    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+13-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:6:5-77
+13-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:6:22-74
+14    <uses-permission android:name="android.permission.READ_CALENDAR" />
+14-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:7:5-72
+14-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:7:22-69
+15    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+15-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:8:5-73
+15-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:8:22-70
+16    <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY" />
+16-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:9:5-85
+16-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:9:22-82
+17
+18    <permission
+18-->[androidx.core:core:1.15.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/cd922e1a6a4a4c7a9fed7764d6c548fd/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+19        android:name="hu.vmiklos.plees_tracker.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+19-->[androidx.core:core:1.15.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/cd922e1a6a4a4c7a9fed7764d6c548fd/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+20        android:protectionLevel="signature" />
+20-->[androidx.core:core:1.15.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/cd922e1a6a4a4c7a9fed7764d6c548fd/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+21
+22    <uses-permission android:name="hu.vmiklos.plees_tracker.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+22-->[androidx.core:core:1.15.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/cd922e1a6a4a4c7a9fed7764d6c548fd/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+22-->[androidx.core:core:1.15.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/cd922e1a6a4a4c7a9fed7764d6c548fd/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+23
+24    <application
+24-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:11:5-75:19
+25        android:allowBackup="true"
+25-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:12:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.15.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/cd922e1a6a4a4c7a9fed7764d6c548fd/transformed/core-1.15.0/AndroidManifest.xml:28:18-86
+27        android:debuggable="true"
+28        android:extractNativeLibs="false"
+29        android:icon="@mipmap/ic_launcher"
+29-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:13:9-43
+30        android:label="@string/app_name"
+30-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:14:9-41
+31        android:roundIcon="@mipmap/ic_launcher"
+31-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:15:9-48
+32        android:supportsRtl="true"
+32-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:16:9-35
+33        android:testOnly="true"
+34        android:theme="@style/AppTheme" >
+34-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:17:9-40
+35        <activity
+35-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:18:9-26:20
+36            android:name="hu.vmiklos.plees_tracker.MainActivity"
+36-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:18:19-47
+37            android:exported="true"
+37-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:19:13-36
+38            android:launchMode="singleTop" >
+38-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:20:13-43
+39            <intent-filter>
+39-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:21:13-25:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:22:17-69
+40-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:22:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:24:17-77
+42-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:24:27-74
+43            </intent-filter>
+44        </activity>
+45        <activity android:name="hu.vmiklos.plees_tracker.SleepActivity" >
+45-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:27:9-31:20
+45-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:27:19-48
+46            <meta-data
+46-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:28:13-30:49
+47                android:name="android.support.PARENT_ACTIVITY"
+47-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:29:17-63
+48                android:value=".MainActivity" />
+48-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:30:17-46
+49        </activity>
+50        <activity android:name="hu.vmiklos.plees_tracker.StatsActivity" >
+50-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:32:9-36:20
+50-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:32:19-48
+51            <meta-data
+51-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:28:13-30:49
+52                android:name="android.support.PARENT_ACTIVITY"
+52-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:29:17-63
+53                android:value=".MainActivity" />
+53-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:30:17-46
+54        </activity>
+55        <activity android:name="hu.vmiklos.plees_tracker.GraphsActivity" >
+55-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:37:9-41:20
+55-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:37:19-49
+56            <meta-data
+56-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:28:13-30:49
+57                android:name="android.support.PARENT_ACTIVITY"
+57-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:29:17-63
+58                android:value=".MainActivity" />
+58-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:30:17-46
+59        </activity>
+60        <activity android:name="hu.vmiklos.plees_tracker.PreferencesActivity" />
+60-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:42:9-57
+60-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:42:19-54
+61
+62        <service
+62-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:43:9-49:19
+63            android:name="hu.vmiklos.plees_tracker.MainService"
+63-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:44:13-40
+64            android:foregroundServiceType="specialUse" >
+64-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:45:13-55
+65            <property
+65-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:46:13-48:87
+66                android:name="android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE"
+66-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:47:17-76
+67                android:value="Used to notify the user that tracking is in progress" />
+67-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:48:17-85
+68        </service>
+69        <service
+69-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:50:9-60:19
+70            android:name="hu.vmiklos.plees_tracker.TileService"
+70-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:51:13-40
+71            android:exported="true"
+71-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:55:13-36
+72            android:icon="@drawable/ic_launcher_foreground"
+72-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:52:13-60
+73            android:label="@string/widget_start_stop"
+73-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:53:13-54
+74            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE" >
+74-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:54:13-77
+75            <intent-filter>
+75-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:56:13-59:29
+76                <action android:name="android.service.quicksettings.action.QS_TILE" />
+76-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:57:17-58:82
+76-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:58:21-80
+77            </intent-filter>
+78        </service>
+79
+80        <receiver
+80-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:61:9-72:20
+81            android:name="hu.vmiklos.plees_tracker.ToggleWidget"
+81-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:64:13-41
+82            android:exported="true"
+82-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:65:13-36
+83            android:icon="@mipmap/ic_launcher"
+83-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:62:13-47
+84            android:label="@string/widget_start_stop" >
+84-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:63:13-54
+85            <intent-filter>
+85-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:66:13-68:29
+86                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+86-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:67:17-84
+86-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:67:25-81
+87            </intent-filter>
+88
+89            <meta-data
+89-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:69:13-71:62
+90                android:name="android.appwidget.provider"
+90-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:70:17-58
+91                android:resource="@xml/widget_info_toggle" />
+91-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:71:17-59
+92        </receiver>
+93        <receiver android:name="hu.vmiklos.plees_tracker.ReminderReceiver" />
+93-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:73:9-54
+93-->/Users/weiboye/Desktop/plees-tracker-master/app/src/main/AndroidManifest.xml:73:19-51
+94
+95        <activity android:name="com.mikepenz.aboutlibraries.ui.LibsActivity" />
+95-->[com.mikepenz:aboutlibraries:7.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/aa343e9d21a26f836e700b45d11e2690/transformed/jetified-aboutlibraries-7.1.0/AndroidManifest.xml:12:9-80
+95-->[com.mikepenz:aboutlibraries:7.1.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/aa343e9d21a26f836e700b45d11e2690/transformed/jetified-aboutlibraries-7.1.0/AndroidManifest.xml:12:19-77
+96
+97        <provider
+97-->[com.mikepenz:iconics-core:4.0.2] /Users/weiboye/.gradle/caches/8.11.1/transforms/1e9d196a83926f23f30628ff30b3f20d/transformed/jetified-iconics-core-4.0.2/AndroidManifest.xml:27:9-32:39
+98            android:name="com.mikepenz.iconics.IconicsContentProvider"
+98-->[com.mikepenz:iconics-core:4.0.2] /Users/weiboye/.gradle/caches/8.11.1/transforms/1e9d196a83926f23f30628ff30b3f20d/transformed/jetified-iconics-core-4.0.2/AndroidManifest.xml:28:13-71
+99            android:authorities="hu.vmiklos.plees_tracker.debug.iconics.core.provider"
+99-->[com.mikepenz:iconics-core:4.0.2] /Users/weiboye/.gradle/caches/8.11.1/transforms/1e9d196a83926f23f30628ff30b3f20d/transformed/jetified-iconics-core-4.0.2/AndroidManifest.xml:29:13-73
+100            android:enabled="@bool/is_iconics_content_provider_enabled"
+100-->[com.mikepenz:iconics-core:4.0.2] /Users/weiboye/.gradle/caches/8.11.1/transforms/1e9d196a83926f23f30628ff30b3f20d/transformed/jetified-iconics-core-4.0.2/AndroidManifest.xml:30:13-72
+101            android:exported="false"
+101-->[com.mikepenz:iconics-core:4.0.2] /Users/weiboye/.gradle/caches/8.11.1/transforms/1e9d196a83926f23f30628ff30b3f20d/transformed/jetified-iconics-core-4.0.2/AndroidManifest.xml:31:13-37
+102            android:initOrder="100" />
+102-->[com.mikepenz:iconics-core:4.0.2] /Users/weiboye/.gradle/caches/8.11.1/transforms/1e9d196a83926f23f30628ff30b3f20d/transformed/jetified-iconics-core-4.0.2/AndroidManifest.xml:32:13-36
+103
+104        <service
+104-->[androidx.room:room-runtime:2.6.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/30a6ca2006f05ab04cff50996a4653f1/transformed/room-runtime-2.6.1/AndroidManifest.xml:24:9-28:63
+105            android:name="androidx.room.MultiInstanceInvalidationService"
+105-->[androidx.room:room-runtime:2.6.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/30a6ca2006f05ab04cff50996a4653f1/transformed/room-runtime-2.6.1/AndroidManifest.xml:25:13-74
+106            android:directBootAware="true"
+106-->[androidx.room:room-runtime:2.6.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/30a6ca2006f05ab04cff50996a4653f1/transformed/room-runtime-2.6.1/AndroidManifest.xml:26:13-43
+107            android:exported="false" />
+107-->[androidx.room:room-runtime:2.6.1] /Users/weiboye/.gradle/caches/8.11.1/transforms/30a6ca2006f05ab04cff50996a4653f1/transformed/room-runtime-2.6.1/AndroidManifest.xml:27:13-37
+108
+109        <provider
+109-->[androidx.emoji2:emoji2:1.3.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/4787537000ff3a1e74b135ca5404ebea/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+110            android:name="androidx.startup.InitializationProvider"
+110-->[androidx.emoji2:emoji2:1.3.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/4787537000ff3a1e74b135ca5404ebea/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:25:13-67
+111            android:authorities="hu.vmiklos.plees_tracker.debug.androidx-startup"
+111-->[androidx.emoji2:emoji2:1.3.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/4787537000ff3a1e74b135ca5404ebea/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:26:13-68
+112            android:exported="false" >
+112-->[androidx.emoji2:emoji2:1.3.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/4787537000ff3a1e74b135ca5404ebea/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:27:13-37
+113            <meta-data
+113-->[androidx.emoji2:emoji2:1.3.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/4787537000ff3a1e74b135ca5404ebea/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+114                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+114-->[androidx.emoji2:emoji2:1.3.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/4787537000ff3a1e74b135ca5404ebea/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:30:17-75
+115                android:value="androidx.startup" />
+115-->[androidx.emoji2:emoji2:1.3.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/4787537000ff3a1e74b135ca5404ebea/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:31:17-49
+116            <meta-data
+116-->[androidx.lifecycle:lifecycle-process:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/47ec0dc40a4500ca8e78f7dce788cdd3/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:29:13-31:52
+117                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+117-->[androidx.lifecycle:lifecycle-process:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/47ec0dc40a4500ca8e78f7dce788cdd3/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:30:17-78
+118                android:value="androidx.startup" />
+118-->[androidx.lifecycle:lifecycle-process:2.8.7] /Users/weiboye/.gradle/caches/8.11.1/transforms/47ec0dc40a4500ca8e78f7dce788cdd3/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:31:17-49
+119            <meta-data
+119-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+120                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+120-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+121                android:value="androidx.startup" />
+121-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+122        </provider>
+123
+124        <uses-library
+124-->[androidx.window:window:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/13fde2594780c6084dcfb0da15ddbe63/transformed/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
+125            android:name="androidx.window.extensions"
+125-->[androidx.window:window:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/13fde2594780c6084dcfb0da15ddbe63/transformed/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
+126            android:required="false" />
+126-->[androidx.window:window:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/13fde2594780c6084dcfb0da15ddbe63/transformed/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
+127        <uses-library
+127-->[androidx.window:window:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/13fde2594780c6084dcfb0da15ddbe63/transformed/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
+128            android:name="androidx.window.sidecar"
+128-->[androidx.window:window:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/13fde2594780c6084dcfb0da15ddbe63/transformed/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
+129            android:required="false" />
+129-->[androidx.window:window:1.0.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/13fde2594780c6084dcfb0da15ddbe63/transformed/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
+130
+131        <receiver
+131-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+132            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+132-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+133            android:directBootAware="false"
+133-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+134            android:enabled="true"
+134-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+135            android:exported="true"
+135-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+136            android:permission="android.permission.DUMP" >
+136-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+137            <intent-filter>
+137-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+138                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+138-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+138-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+139            </intent-filter>
+140            <intent-filter>
+140-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+141                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+141-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+141-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+142            </intent-filter>
+143            <intent-filter>
+143-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+144                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+144-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+144-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+145            </intent-filter>
+146            <intent-filter>
+146-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+147                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+147-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+147-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/weiboye/.gradle/caches/8.11.1/transforms/f3ea0485666e6fa159bbe9190841a008/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+148            </intent-filter>
+149        </receiver>
+150    </application>
+151
+152</manifest>
